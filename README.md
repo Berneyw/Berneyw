@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Simple Notes<br>🌱 I’m currently learning Python, PyTorch, C++, Math<br>⚡ Fun fact birds can fly
+🔭 I’m currently working on Python proj's<br>🌱 I’m currently learning Python, PyTorch, Computer Science, Calculus<br>⚡ Fun fact birds can fly
 
 
 ## 🌐 Socials:
